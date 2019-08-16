@@ -18,8 +18,8 @@ open source by embracing consensus, forking, and individual ownership as its
 building blocks.
 
 ### Principals
-* **claw-compiler** is an open, inclusive, and tolerant community of people
-  working together to build a
+* **claw-project** is an open, inclusive, and tolerant community of people
+  working together to build open-source softwares.
 * We value diversity of individuals and opinions, and seek to operate on
   consensus whenever possible.
 * We strive to maintain a welcoming, including, and harassment-free environment
