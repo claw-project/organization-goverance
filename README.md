@@ -53,11 +53,9 @@ organization.
 The **claw-project** organization is managed by the lead maintainers and
 administrators of the core repositories. The organization is divided in two
 groups based on the designation of each repository (core and community):
-* **Core contributors** - are those who maintain and contributes actively   
-  to the **claw-compiler** repository or one of its
-  dependencies. Core contributors work together to guide the core of the
-  compiler framework, make decisions about releases and breaking changes, and
-  are responsible for the daily maintenance of the core repositories.
+* **Core contributors** - are those who maintain and contributes actively to the **claw-compiler** repository or one of its   
+  dependencies. Core contributors work together to guide the core of the compiler framework, make decisions about releases and 
+  breaking changes, and are responsible for the daily maintenance of the core repositories.
   They also decide to accept or create new repositories, as well as remove
   repositories from the organization. The core contributors operate on
   consensus only on all matters not specific to an individual repository.
