@@ -1,14 +1,14 @@
 # Governance rules regulating the organization
 
-### TL;DR
-The **claw-project** organization (which includes all the repositories under [claw-project](https://github.com/claw-project) is run by
-the lead maintainers and administrators of its repositories. Decisions are made
-by consensus whenever possible. If consensus is not possible, the lead
-maintainer of the relevant repository has the final say. Lead maintainers
-cannot be removed unless they leave or hand over the repository to someone else.
-However, repositories can be forked and removed from the organization.
-The entire organization is run by consensus of its lead maintainers and
-administrators.
+### **claw-project** Organization and administrators
+The **claw-project** organization (which includes all the repositories under 
+[claw-project](https://github.com/claw-project) is organized by the **claw-project**
+administrators. The founding organizations ETH Zurich and MeteoSwiss, and organizations which have
+sign a collaboration agreement have at least one  **claw-project** administrator.
+Organization administrators nominate lead maintainers and administrators of the different repositories.  
+Decisions are made by consensus whenever possible. If consensus is not possible, the organization 
+adminitrators have the final say. **claw-project** adminitrators cannot be removed unless 
+they leave their organizations or their organization is not part of the CLAW collaboration anymore.
 
 ###  Organization Governance
 This document defined the rules and processes through which the
@@ -43,12 +43,7 @@ daily operations of the repository, for seeking consensus, and for making the
 final decisions when consensus cannot be achieved. For repository, they have the
 final say on releasing new versions.
 
-Lead maintainers cannot be removed unless they leave, assign their position to
-someone else, or have become inactive for 30 days and fails to respond to
-attempts to communicate, at which point a new contributor will assume
-responsibility for the repository. There are no other ways to remove a lead
-maintainer as long as the repository remains part of the **claw-project**
-organization.
+Lead maintainers are nominated by the **claw-project** administrators.
 
 The **claw-project** organization is managed by the lead maintainers and
 administrators of the core repositories. The organization is divided in two
@@ -68,9 +63,8 @@ groups based on the designation of each repository (core and community):
 Each repository has 1 to N administrators. The lead maintainer is the first
 administrator of a repository.
 Only administrators have the rights to merge PRs into the master branch.
-* **Becoming an administrator** - trusted contributors to a repository can
-  join the administrator group when 2/3 of the current administrators of the
-  repository agree.
+* **Becoming an administrator** - repository adminitrator are nominated by
+the claw-project administrators.
 
 #### Institution in Core contributors
 Institution contributing actively to one of the core repository should have
@@ -80,5 +74,4 @@ This nomination is not implicit and relies as well on the **Administrators of
 Repository** rules.
 
 #### Change in the rules
-The current organization rules can be change if 2/3 of the lead maintainers and
-administrators agree on the change.
+The current organization rules can be change if all the **claw-project** adminitrators agree.
