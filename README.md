@@ -4,10 +4,10 @@
 The **claw-project** organization (which includes all the repositories under 
 [claw-project](https://github.com/claw-project) is organized by the **claw-project**
 administrators. The founding organizations ETH Zurich and MeteoSwiss, and organizations which have
-sign a collaboration agreement have at least one  **claw-project** administrator.
+sign a collaboration agreement may have at least one  **claw-project** administrator.
 Organization administrators nominate lead maintainers and administrators of the different repositories.  
 Decisions are made by consensus whenever possible. If consensus is not possible, the organization 
-adminitrators have the final say. **claw-project** adminitrators cannot be removed unless 
+adminitrators have the final say. **claw-project** administrators cannot be removed unless 
 they leave their organizations or their organization is not part of the CLAW collaboration anymore.
 
 ###  Organization Governance
